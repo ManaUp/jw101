@@ -1,0 +1,5 @@
+proot/*
+proot/ObjectData
+!proot/Fonts/
+!proot/Locale/
+
