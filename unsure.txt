@@ -5,6 +5,7 @@ Zeke = ジークかゼーク？
 Commons = ?
 Shopping District = ?
 Wizard City = ?
+school = ?
 
 MooShu = ??
 Hingen = ?
