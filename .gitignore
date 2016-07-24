@@ -2,4 +2,13 @@ proot/*
 proot/ObjectData
 !proot/Fonts/
 !proot/Locale/
-
+pswdata/*
+pswdata/Character
+pswdata/Cinematics
+pswdata/Combat
+pswdata/Holiday
+pswdata/Sound
+pswdata/Textures
+!pswdata/GUI/
+pswdata/GUI/*
+!pswdata/GUI/CharStatsSpellbookPage.gui

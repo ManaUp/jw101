@@ -1,5 +1,6 @@
 Names: transcribe into katakana or replace with a different set?
 
+Tunnel to X = XのトンネルかXへトンネル？
 Merle = マールかメール？
 Zeke = ジークかゼーク？
 Commons = ?
