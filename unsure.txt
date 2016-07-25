@@ -6,6 +6,7 @@ Zeke = ジークかゼーク？
 Shopping District = ?
 Wizard City = ?
 school = ?
+Lumbering Troll = ?
 
 MooShu = ??
 Hingen = ?
