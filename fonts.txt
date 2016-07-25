@@ -1,0 +1,4 @@
+WizardNormal - VL PGothic size 38
+WizardFancy - AmeMuchi Gothic size 29 vertical margin 10 vertical shift 4
+SpellDescription - Meiryo bold size 12 horizontal margin 2 vertical margin 2
+SpellTitle - AmeMuchi Gothic size 14 vertical margin 5 vertical shift 4
